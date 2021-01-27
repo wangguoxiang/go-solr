@@ -1,4 +1,4 @@
-/*
+ /*
  * Go Solr, a Solr library written in Go.
  * Original author Rich Taylor, 2012 - http://rsty.org/, http://github.com/rtt/
  * Released under the "do whatever the fuck you want" license. http://sam.zoy.org/wtfpl/
